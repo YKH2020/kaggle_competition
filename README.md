@@ -1,4 +1,4 @@
-# kaggle_competition - Predicting Concert Season Subscription Purchases
+# Predicting Concert Season Subscription Purchases
 
 ### Objective
 We have received several data files to use in our model. Our goal is to predict whether the patrons listed in the `test.csv` file will purchase subscriptions for the 2014-15 concert season. The target label for this classification task is a probabilistic prediction that a patron will purchase a subscription, rather than a binary outcome, since the evaluation metric for this competition is AUROC.
